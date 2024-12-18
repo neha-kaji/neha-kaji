@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Neha Kaji 👋
 
-<!--
-**neha-kaji/neha-kaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a passionate **tech enthusiast** and a **full-stack developer** with expertise in **Android development**. I love building creative and scalable solutions and continuously learning new technologies to improve my skills. This is my first GitHub repository, where I share my projects and code.
 
-Here are some ideas to get you started:
+## Skills & Technologies
+- **Full-stack development** (Frontend & Backend)
+- **Android Development** (Java, Kotlin)
+- **Web Development** (HTML, CSS, JavaScript)
+- **Database Management** (MySQL)
+- **Version Control** (Git, GitHub)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with Me
+- [LinkedIn](https://linkedin/in/neha-kaji)
+- [Twitter](https://twitter/nehakaji)
+
+## Excited to share my journey in tech! Feel free to explore my projects.
