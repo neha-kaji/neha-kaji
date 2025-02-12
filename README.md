@@ -10,7 +10,7 @@ I'm a passionate **tech enthusiast** and a **full-stack developer** with experti
 - **Database Management** (MySQL)
 - **Version Control** (Git, GitHub)
 
-## Over Skills 
+## Over all Skills 
 - **Speaking Skills**
 - **Management**
 - **Stress Handling**
