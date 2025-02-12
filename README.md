@@ -1,14 +1,21 @@
 # Hi, I'm Neha Kaji 👋
 
-## About Me
-I'm a passionate **tech enthusiast** and a **full-stack developer** with expertise in **Android development**. I love building creative and scalable solutions and continuously learning new technologies to improve my skills. This is my Github Profile, where I share my projects and code.
+## All About Me
+I'm a passionate **tech enthusiast** and a **full-stack developer** with expertise in **Android development**. I am a fun going persion that loves to build connections and read books. I hope I learn new skills and develop my personality and coding skills. Let's grow together!!
 
-## Skills & Technologies
+## Technical Skills
 - **Full-stack development** (Frontend & Backend)
 - **Android Development** (Java, Kotlin)
 - **Web Development** (HTML, CSS, JavaScript)
 - **Database Management** (MySQL)
 - **Version Control** (Git, GitHub)
+
+## Over Skills 
+- **Speaking Skills**
+- **Management**
+- **Stress Handling**
+- **Leadership**
+- **Communication**
 
 ## Connect with Me
 - [LinkedIn](https://linkedin/in/neha-kaji/)
