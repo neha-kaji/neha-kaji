@@ -6,8 +6,8 @@ I'm a passionate **tech enthusiast** and a **full-stack developer** with experti
 ## Technical Skills
 - **Full-stack development** (Frontend & Backend)
 - **Android Development** (Java, Kotlin)
-- **Web Development** (HTML, CSS, JavaScript)
-- **Database Management** (MySQL)
+- **Web Development** (HTML, CSS, JavaScript, React Js)
+- **Database Management** (MySQL,Firebase, Supabase)
 - **Version Control** (Git, GitHub)
 
 ## Over all Skills 
@@ -19,6 +19,5 @@ I'm a passionate **tech enthusiast** and a **full-stack developer** with experti
 
 ## Connect with Me
 - [LinkedIn](https://linkedin/in/neha-kaji/)
-- [Twitter](https://x.com/neha_kaji/)
 
 ## Excited to share my journey in tech! Feel free to explore my projects.
