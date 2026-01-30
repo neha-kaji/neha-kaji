@@ -19,5 +19,6 @@ I'm a passionate **tech enthusiast** and a **full-stack developer** with experti
 
 ## Connect with Me
 - [LinkedIn](https://linkedin/in/neha-kaji/)
+- [Portfolio](https://neha-kaji.vercel.app/)
 
 ## Excited to share my journey in tech! Feel free to explore my projects.
